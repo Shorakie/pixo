@@ -1,0 +1,11 @@
+[package]
+name = "pixo"
+version = "0.0.1"
+edition = "2021"
+authors = ["Shorakie <mhmdamin.jafari@gmail.com>"]
+readme = "../README.md"
+repository = "https://github.com/Shorakie/pixo"
+
+[lib]
+
+[dependencies]

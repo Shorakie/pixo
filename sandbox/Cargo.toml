@@ -1,0 +1,10 @@
+[package]
+name = "sandbox"
+version = "0.0.1"
+edition = "2021"
+authors = ["Shorakie <mhmdamin.jafari@gmail.com>"]
+readme = "README.md"
+publish = false
+
+[dependencies]
+pixo = { path = "../pixo" }
